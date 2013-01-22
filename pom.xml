@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-given</artifactId>
-    <version>0.0.6-SNAPSHOT</version>
+    <version>0.0.6</version>
     <name>jasmine-given</name>
     <description>WebJar for jasmine-given</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jasmine-given</url>
         <connection>scm:git:https://github.com/webjars/jasmine-given.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jasmine-given.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jasmine-given-0.0.6</tag>
     </scm>
     
     <properties>
